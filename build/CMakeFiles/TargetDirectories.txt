@@ -1,0 +1,4 @@
+/home/tuna/workspace/Testing/udp-image-streaming/build/CMakeFiles/rebuild_cache.dir
+/home/tuna/workspace/Testing/udp-image-streaming/build/CMakeFiles/server.dir
+/home/tuna/workspace/Testing/udp-image-streaming/build/CMakeFiles/edit_cache.dir
+/home/tuna/workspace/Testing/udp-image-streaming/build/CMakeFiles/client.dir
